@@ -1,2 +1,2 @@
 # WebDev1
-https://albertochanliu81.github.io/CSWebDev.
+https://albertochan81.github.io/CSWebDev/
