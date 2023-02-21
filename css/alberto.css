@@ -1,12 +1,18 @@
 h1 {
   margin-top: 1.5cm;
 }
+h4{
+  font-size: 30px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
 body {
   font-family: Arial, Helvetica, sans-serif;
   background-color: turquoise;
   text-align: center;
 }
-table, th, td {
+table.table1 , th {
   border: 2px solid black;
   margin-left: auto;
   margin-right: auto;
@@ -14,6 +20,13 @@ table, th, td {
 }
 th,td {
   background-color: rgb(0, 255, 204);
+}
+table.table2 , td {
+  border: 3px solid rgb(86, 60, 60);
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
 }
 
 img {
@@ -44,4 +57,8 @@ hr {
   margin-left:50px;
   margin-right: 50px;
   
+}
+hr {
+  border-style: groove;
+  border-width: 1px;
 }
